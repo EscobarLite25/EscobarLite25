@@ -111,21 +111,21 @@ This multifaceted experience exemplifies my proficiency in utilizing advanced to
 <table>
   <tr>
     <td align="center">
-      <img src="A1.jpeg" alt="CAD" width="200">
+      <img src="A1.jpeg" alt="CAD" width="500">
       <p>Fig. 1 Pressure contour for the final nose cone mode</p>
     </td>
     <td align="center">
-      <img src="A2.jpeg" alt="Mesh" width="200">
+      <img src="A2.jpeg" alt="Mesh" width="500">
       <p>Fig. 2 Nosecone made on Solidworks</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="A3.jpeg" alt="Image 4" width="200">
+      <img src="A3.jpeg" alt="Image 4" width="500">
       <p>Fig. 3 Velocity contour for the final nose cone model</p>
     </td>
     <td align="center">
-      <img src="A4.jpeg" alt="Image 4" width="200">
+      <img src="A4.jpeg" alt="Image 4" width="500">
       <p>Fig. 4 Front Wing</p>
     </td>
   </tr>
