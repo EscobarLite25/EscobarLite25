@@ -38,12 +38,18 @@ This immersive research internship at IIT Hyderabad provided me with a transform
 
 <table>
   <tr>
-   <div style="display:flex; justify-content:space-between;">
-  <img src="work.png" alt="Image 1" width="500" style="margin-right:10px;">
-  <img src="rcodes.png" alt="Image 2" width="500" style="margin-right:10px;">
-  <img src="graph.png" alt="Image 3" width="500">
-  <img src="graph2.png" alt="Image 3" width="500">
-</div>
+    <td align="center">
+      <img src="work.png" alt="DMD" width="500">
+    </td>
+    <td align="center">
+      <img src="rcodes.png" alt="rcodes.png" width="500">
+    </td>
+    <td align="center">
+      <img src="graph.png" alt="DMD" width="500">
+    </td>
+    <td align="center">
+      <img src="graph2.png" alt="DMD" width="500">
+    </td>
   </tr>
 </table>
 
