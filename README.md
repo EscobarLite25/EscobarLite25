@@ -17,7 +17,7 @@ For further discussions or inquiries, please feel free to reach out via email at
 
 
 ## Work Experience
-###  Research Intern  <img src="IITH.png" alt="IITH" style = "float: right" align=" right" width ="200"> 
+###  Research Intern  <img src="IITH.png" alt="IITH" style = "float: right" align=" right" width ="100"> 
 #### Transportation Laboratory, Civil Engineering Department, Indian Institute of Technology Hyderabad
 
 
