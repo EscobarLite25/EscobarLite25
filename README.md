@@ -44,6 +44,8 @@ This immersive research internship at IIT Hyderabad provided me with a transform
     <td align="center">
       <img src="rcodes.png" alt="rcodes.png" width="500">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="graph.png" alt="DMD" width="500">
     </td>
@@ -52,7 +54,6 @@ This immersive research internship at IIT Hyderabad provided me with a transform
     </td>
   </tr>
 </table>
-
 
 ## Projects
 
@@ -120,7 +121,7 @@ This multifaceted experience exemplifies my proficiency in utilizing advanced to
   </tr>
   <tr>
     <td align="center">
-     <img src="A3.jpeg" alt="Image 4" width="200">
+      <img src="A3.jpeg" alt="Image 4" width="200">
       <p>Fig. 3 Velocity contour for the final nose cone model</p>
     </td>
     <td align="center">
@@ -128,6 +129,7 @@ This multifaceted experience exemplifies my proficiency in utilizing advanced to
       <p>Fig. 4 Front Wing</p>
     </td>
   </tr>
+</table>
 
 
 <!--## Skills
