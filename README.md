@@ -11,7 +11,7 @@ Feel free to reach out to discuss anything tech, ML, or F1-related! 🤖🏁
 ## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=[(https://github.com/EscobarLite25)])](https://github.com/[EscobarLite25])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-srivastava-7a916b223/])](https://www.linkedin.com/in/aman-srivastava-7a916b223/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=[(https://www.linkedin.com/in/aman-srivastava-7a916b223/)])](https://www.linkedin.com/in/aman-srivastava-7a916b223/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&link=mailto:[aman.srivastava.civ21@itbhu.ac.in])](mailto:[aman.srivastava.civ21@itbhu.ac.in])
 
 
