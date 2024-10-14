@@ -1,10 +1,10 @@
 # Hello, I'm Aman Srivastava 👋
 
-🧠 Machine Learning | 🏎️ F1 Fanatic | 📚 Research Enthusiast
+🧠 Machine Learning |Gen AI |  🏎️ F1 Fanatic | 📚 Research Enthusiast
 
 ## About Me
 
-I am Aman Srivastava, a proactive 3rd-year Civil Engineering BTech student at IIT BHU. Infused with a strong affinity for *machine learning* and *research*, I am currently immersed in exploring the exciting prospects of integrating AI/ML within core civil engineering domains. My journey at IIT BHU has ignited a passion for deciphering the synergy between technology and infrastructure. By delving into intricate aspects of civil engineering and leveraging the transformative power of AI/ML, I am driven to revolutionize traditional practices and unravel innovative solutions for enhanced *structural dynamics* and *intelligent transportation systems*.🌉🚗
+I am Aman Srivastava, a proactive 4th-year BTech student at IIT BHU. With a keen interest in Generative AI and large language models (LLMs), I am currently exploring how these cutting-edge technologies can be applied across various domains.
 
 Feel free to reach out to discuss anything tech, ML, or F1-related! 🤖🏁 
 
